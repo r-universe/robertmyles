@@ -1,0 +1,14 @@
+[
+  {
+    "package": "cepR",
+    "oncran": true
+  },
+  {
+    "package": "tidygeoRSS",
+    "oncran": true
+  },
+  {
+    "package": "tidyRSS",
+    "oncran": true
+  }
+]
