@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "cepR"]
 	path = cepR
 	url = https://github.com/robertmyles/cepr
-	shallow = true
-	registered = true
 [submodule "tidygeoRSS"]
 	path = tidygeoRSS
 	url = https://github.com/robertmyles/tidygeorss
-	shallow = true
-	registered = true
 [submodule "tidyRSS"]
 	path = tidyRSS
 	url = https://github.com/robertmyles/tidyrss
-	shallow = true
-	registered = true
