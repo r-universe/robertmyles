@@ -5,9 +5,9 @@
 [submodule "cepR"]
 	path = cepR
 	url = https://github.com/robertmyles/cepr
-[submodule "tidygeoRSS"]
-	path = tidygeoRSS
-	url = https://github.com/robertmyles/tidygeorss
 [submodule "tidyRSS"]
 	path = tidyRSS
 	url = https://github.com/robertmyles/tidyrss
+[submodule "tidygeoRSS"]
+	path = tidygeoRSS
+	url = https://github.com/robertmyles/tidygeorss
